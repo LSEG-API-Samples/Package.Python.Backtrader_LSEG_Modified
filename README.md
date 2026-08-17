@@ -3,7 +3,7 @@ We are contributing this minor fix back to the Backtrader package community thro
 
 Library: Python backtesting framework for trading strategies (matplotlib-based plotting).
 
-Source: GitHub - mementum/backtrader at e22205427bc0ac55723677c88573737a172590ef, License GPL-3.0.
+Source: GitHub - mementum/backtrader at e22205427bc0ac55723677c88573737a172590ef, License GPL-3.0. Link: https://github.com/mementum/backtrader
 
 What we changed: Removed the obsolete from matplotlib.dates import warnings and imported the needed symbols directly (removed in matplotlib 3.3.0+). 
 
